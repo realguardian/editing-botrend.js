@@ -1,2 +1,3 @@
 # editing-botrend.js
-Editing packagr botrend.js to beautiful
+Editing package botrend.js to beautiful
+-
